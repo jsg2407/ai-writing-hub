@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jsg2407.github.io/ai-writing-hub/sitemap.xml
